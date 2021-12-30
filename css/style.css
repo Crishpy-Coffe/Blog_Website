@@ -14,11 +14,11 @@ body {
   --midnight: #104f55;
   --white: white;
   /* theme font -famiel y*/
-  --Able: "Able", cursive;
-  --Anton: "Anton", cursive;
-  --Josefin: "Josefin", cursive;
-  --Lexend: "Lexend", cursive;
-  --Livvic: "Livvic", cursive;
+  --Abel: 'Abel';
+  --Anton: 'Anton';
+  --Josefin : 'Josefin';
+  --Lexend: 'Lexend';
+  --Livvic : 'Livvic';
 }
 
 /* -------------------Global classes---------------------- */
@@ -49,7 +49,7 @@ h2 {
 }
 
 h3 {
-  font-family: var(--Able);
+  font-family: var(--Abel);
   font-size: 1.3rem;
 }
 
@@ -58,7 +58,7 @@ button.btn {
   border-radius: 2rem;
   padding: 1rem 3rem;
   font-size: 1rem;
-  font-family: var(--Able);
+  font-family: var(--Abel);
   cursor: pointer;
 }
 
@@ -365,7 +365,7 @@ nav .toggle-collapse {
   padding: 1.6rem 1rem;
   font-size: 1.1rem;
   position: relative;
-  font-family: var(--Able);
+  font-family: var(--Abel;
   font-size: 1.1rem;
 }
 .blogger {
